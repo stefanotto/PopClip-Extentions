@@ -1,0 +1,1 @@
+open "wikibot://en/$POPCLIP_TEXT"
